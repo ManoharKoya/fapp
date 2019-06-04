@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seller">SellerAct</string>
+    <string name="title_activity_buyer">BuyerActivity</string>
+    <string name="title_activity_check">CheckActivity</string>
+</resources>
